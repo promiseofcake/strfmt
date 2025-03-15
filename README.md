@@ -27,7 +27,6 @@ It also provides convenient extensions to go-openapi users.
   - date (e.g. "1970-01-01")
   - password
 - [x] go-openapi custom format extensions
-  - bsonobjectid (BSON objectID)
   - creditcard
   - duration (e.g. "3 weeks", "1ms")
   - hexcolor (e.g. "#FFFFFF")
